@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "kingsillu.minefort.com",
-    "port": 25565,
+    "ip": "sillu.aternos.me",
+    "port": 36486,
     "version": "1.12.1"
   },
   
